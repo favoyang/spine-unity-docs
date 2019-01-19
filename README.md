@@ -14,7 +14,7 @@ Documentation for Spine-Unity users.
 - [Handling the Skeleton](https://github.com/pharan/spine-unity-docs/blob/master/spine-unity-handlingtheskeleton.md)
 
 ## Specific Modules
-- [Spine-Unity YieldInstructions](https://github.com/pharan/spine-unity-docs/blob/master/spine-unity-yieldinstructions.md)
+- [Spine-Unity YieldInstructions](https://github.com/pharan/spine-unity-docs/blob/master/Spine-Unity-YieldInstructions.md)
 - [SkeletonRenderSeparator](https://github.com/pharan/spine-unity-docs/blob/master/spine-unity-skeletonrenderseparator.md)
 
 ## See Also
